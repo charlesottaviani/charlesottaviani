@@ -4,7 +4,7 @@
 - 📫 How to reach me : chamallooowww@gmail.com
 
 - My projects (1) :
-  - 2gaulle.fr
+  - <a href="2gaulle.fr">2gaulle.fr</a>
 
 <!---
 Chamallooowww/Chamallooowww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
