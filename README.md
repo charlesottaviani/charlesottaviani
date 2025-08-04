@@ -16,9 +16,9 @@
 ## 🧠 Projets personnels
 
 ### 📌 TIPE – Approximation universelle par réseaux de neurones  
-- Étude mathématique du théorème de Cybenko et implémentation Python  
+- Étude mathématique du théorème d'approximation universelle et implémentation Python  
 - Visualisation des erreurs d’approximation selon les fonctions choisies  
-- Compréhension de la structure des réseaux monocouche à activation sigmoïde  
+- Compréhension de la structure des réseaux monocouche
 
 ### 🏙️ Micro-projet – Simulation de réseau de transport optimisé  
 - Modélisation d’un graphe de transport interquartiers  
@@ -40,7 +40,7 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [linkedin.com/in/charles-ottaviani](https://www.linkedin.com/in/charles-ottaviani)  
+- LinkedIn : [https://www.linkedin.com/in/charles-ottaviani-503b332b4/](https://www.linkedin.com/in/charles-ottaviani-503b332b4)
 - Email : charles.ottaviani@icloud.com
 
 ---
