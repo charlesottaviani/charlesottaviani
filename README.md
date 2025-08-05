@@ -20,7 +20,7 @@
 - Visualisation des erreurs d’approximation selon les fonctions choisies  
 - Compréhension de la structure des réseaux monocouche
 
-### 🏙️ Micro-projet – Simulation de réseau de transport optimisé  
+### 🏙️ Micro-projet – Simulation de réseau de transport optimisé [EN COURS]
 - Modélisation d’un graphe de transport interquartiers  
 - Algorithmes de Kruskal / Dijkstra avec NetworkX  
 - Cartographie interactive avec QGIS  
@@ -28,7 +28,7 @@
 
 ### ⚔ Concours National de la Résistance et de la Déportation - Site internet bibliographique
 - Création en équipe d’un site Internet dans le cadre du CNRD. 
-- Accéssible sur https://2gaulle.fr
+- Accessible sur https://2gaulle.fr
 
 ---
 
